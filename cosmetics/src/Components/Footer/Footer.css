@@ -1,0 +1,32 @@
+.footer{
+    margin-top: 50px;
+   
+   }
+   .footer h6{
+    padding-top: 40px;
+     font-weight: 100;
+     font-size: 1.5rem;
+     letter-spacing: 0.15em;
+   }
+   .footer p{
+   margin-top: 100px;
+   line-height: 1.6em;
+   font-size: 15px;
+   font-family: normal normal normal 15px / 1.4em futura-lt-w01-book, futura-lt-w05-book, sans-serif;
+   }
+   .footer input{
+       border-width:  0px 0px 3px 0px;
+       width: 350px;
+       border-color:rgba(245, 231, 223) ;
+       }
+       .footer button{
+           margin-top: 10px;
+           background-color: rgba(199, 172, 157);
+           color: white;
+          border: rgba( 206, 160, 138);
+          width: 350px;
+         }
+         .footer button:hover{
+           background-color: white;
+           color: rgba(199, 172, 157);
+         }

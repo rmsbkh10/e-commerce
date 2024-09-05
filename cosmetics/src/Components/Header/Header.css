@@ -1,0 +1,229 @@
+#annonce{
+    margin-top: 0;
+    background-color: rgba(245, 231, 223);
+    font-size: 15px;
+   height: 40px;
+   text-align: center;
+  
+
+}
+.title p{
+    font-size: 40px;
+    font-family:normal normal normal 40px / 1.4em futura-lt-w01-light, futura-lt-w05-light, sans-serif;
+    font-weight: 100;
+    letter-spacing: 0.05em;
+    margin-top: 15px;
+   margin-left: 600px;
+   }
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+   }
+   .pages {
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+    
+
+   }
+.pages a{
+ justify-content: space-between;
+ font-family: normal normal 16px / 1.4em din-next-w01-light, din-next-w02-light, din-next-w10-light, sans-serif;
+ color: rgba( 0, 0, 0);
+ line-height: 27px;
+ padding: 0 15px;
+ text-decoration: none;
+ font-size: 14px;
+}
+
+.pages a:hover{
+    color: rgba(245, 231, 223);
+}
+.connexion{
+display: flex;
+margin-left: 970px;
+margin-top: -22px;
+
+   
+}
+.connexion a{
+    font-size: 14px;
+    margin-left: 5px;
+    font-family: normal normal 16px / 1.4em din-next-w01-light, din-next-w02-light, din-next-w10-light, sans-serif;
+    text-decoration: none;
+    color: rgba( 0, 0, 0);
+}
+/* .container{
+    margin-top: 30px;
+   width: 1090px;
+   position: relative;
+}
+.titlescarousel{
+    position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+
+}
+.titlescarousel p{
+    line-height: 1.6em;
+    text-align: center;
+    letter-spacing: 0.15em;
+    font-size: 15px;
+  
+    font-family: normal normal normal 15px / 1.4em futura-lt-w01-book, futura-lt-w05-book, sans-serif;;
+}
+#bigtitre{
+    text-align: center;
+    font-size: 36px;
+    font-family: normal normal normal 36px / 1.4em futura-lt-w01-light, futura-lt-w05-light, sans-serif;
+    letter-spacing: 0.05em;
+}
+.photos{
+    display: flex;
+}
+.leftphoto{
+    background-image: url(.././../assets/photo4.webp);
+    background-size: cover;
+    width: 505px;
+    height: 450px;
+    margin-top: 10px;
+    margin-left: 100px;
+   
+}
+#firstp{
+   
+    text-align: center;
+    font-size: 16px;
+    font-family: normal normal normal 24px / 1.4em futura-lt-w01-light, futura-lt-w05-light, sans-serif;
+    color: rgba( 255, 255, 255);
+    margin-top: 175px;
+    
+
+
+}
+#secondp{
+    font-family: normal normal normal 24px / 1.4em futura-lt-w01-light, futura-lt-w05-light, sans-serif;
+    color: rgba( 255, 255, 255);
+    font-size: 21px;
+}
+.rightphoto{
+    background-image: url(.././../assets/photo5.webp);
+    background-size: cover;
+    width: 505px;
+    height: 450px;
+    margin-top: 10px;
+   margin-left: 55px;
+}
+#thirdp{
+    margin-top: 175px;
+    letter-spacing: 0.15em;
+    color: rgb( 0, 0, 0);
+    line-height: 1.6em;
+    font-size: 15px;
+    font-family: normal normal normal 15px / 1.4em futura-lt-w01-book, futura-lt-w05-book, sans-serif;
+
+}
+#forthp{
+    letter-spacing: 0.15em;
+    color: rgb( 0, 0, 0);
+    line-height: 1.6em;
+    text-align: center;
+    font-size: 20px;
+    font-family: normal normal normal 15px / 1.4em futura-lt-w01-book, futura-lt-w05-book, sans-serif;
+    
+}
+.products p{
+ font-size: 16px;
+ font-weight: normal;
+ font-family: futura-lt-w01-light, futura-lt-w05-light, sans-serif;;
+}
+.Forthpart{
+   display: flex;
+}
+
+.photogauche{
+    background-image: url(.././../assets/photo8.webp);
+    background-size: cover;
+    width: 430px;
+    height: 400px;
+    margin-top: 40px;
+   margin-left: 95px;
+}
+.photodroite{
+    background-image: url(.././../assets/photo7.webp);
+    background-size: cover;
+    width: 600px;
+    height: 400px;
+    margin-top: 40px;
+   margin-left: 65px;
+
+}
+
+.photodroite p{
+ margin-top: 90px;
+ padding: 35px;
+ text-align: center;
+ font-size: 15px;
+ font-family: normal normal normal 15px / 1.4em futura-lt-w01-book, futura-lt-w05-book, sans-serif;
+ letter-spacing: 0.15em;
+ margin-right: 260px;
+ margin-bottom: 0px;
+}
+#titredroit{
+    text-align: center;
+    font-size: 18px;
+    padding: 0px;
+  margin-top: 0px;
+}
+.photogauche p{
+    margin-top: 100px;
+    padding: 20px;
+    text-align: center;
+    font-size: 15px;
+    font-family: normal normal normal 15px / 1.4em futura-lt-w01-book, futura-lt-w05-book, sans-serif;
+    letter-spacing: 0.15em;
+   }
+   #titregauche{
+    text-align: center;
+    font-size: 18px;
+    padding: 0px;
+  margin-top: 15px;
+ } */
+/* .footer{
+ margin-top: 50px;
+
+}
+.footer h6{
+ padding-top: 40px;
+  font-weight: 100;
+  font-size: 1.5rem;
+  letter-spacing: 0.15em;
+}
+.footer p{
+margin-top: 100px;
+line-height: 1.6em;
+font-size: 15px;
+font-family: normal normal normal 15px / 1.4em futura-lt-w01-book, futura-lt-w05-book, sans-serif;
+}
+.footer input{
+    border-width:  0px 0px 3px 0px;
+    width: 350px;
+    border-color:rgba(245, 231, 223) ;
+    }
+    .footer button{
+        margin-top: 10px;
+        background-color: rgba(199, 172, 157);
+        color: white;
+       border: rgba( 206, 160, 138);
+       width: 350px;
+      }
+      .footer button:hover{
+        background-color: white;
+        color: rgba(199, 172, 157);
+      } */
